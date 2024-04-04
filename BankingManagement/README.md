@@ -6,18 +6,6 @@ Welcome to the Banking System project! This Java-based application allows you to
 
 Follow these steps to set up and run the project on your local machine:
 
-1. **Clone the Repository**: 
-   ```shell
-   git clone https://github.com/YourUsername/YourBankingSystemRepo.git
-2. **Compile the Java Code**:
-
-   ```shell
-   javac *.java
-3. **Run the Application**:
-
-   ```shell
-   java BankingApp
-
 # 📂 Project Structure
 - 'src/': Contains the Java source code files.
 - 'database/': Includes SQL scripts for database setup.
@@ -29,7 +17,6 @@ Follow these steps to set up and run the project on your local machine:
 - Debit and Credit Transactions
 - Money Transfer Between Accounts
 - Balance Inquiry
-- Robust Security Measures
 
 # 🌐 Technologies Used
 - Java
@@ -38,8 +25,5 @@ Follow these steps to set up and run the project on your local machine:
 
 # 📸 Screenshots
 - Screenshot 1
-
-# 🤝 Contributing
-- Contributions are welcome! Feel free to submit issues and pull requests.
 
 # Happy coding! 🎉
