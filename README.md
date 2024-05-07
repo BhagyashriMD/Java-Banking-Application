@@ -18,14 +18,14 @@ Java: The project is developed using the Java programming language.
 
 JDBC: The JDBC API is utilized for database operations, allowing seamless interaction with a database management system.
 
-Database Management System: This application is worked with popular DBMS MySQL.
+Database Management System: This application works with popular DBMS MySQL.
 # How to Run the Application
 
 ->Install Java Development Kit (JDK) on your system, if not already installed.
 
 ->Set up a compatible database management system (MySQL, Oracle, PostgreSQL, etc.) and create a database for the application.
 
-->Download or clone the project repository from https://github.com/Arpitpatel1706/Java-Menu-Driven-Banking-Application-with-JDBC.
+->Download or clone the project.
 
 ->Open the project in an integrated development environment (IDE) such as Eclipse or IntelliJ IDEA.
 
@@ -42,7 +42,7 @@ Create Account: Users can select this option to create a new bank account. They 
 
 User Login: Registered users can log in to their accounts by selecting this option. They will need to provide their credentials (username and password) to access their account functionalities.
 
-Transfer Money: This option allows users to transfer funds between their own accounts or to other users' accounts within the banking system. Users will be guided through the necessary steps to complete the transaction securely.
+Transfer Money: This option allows users to transfer funds between their accounts or to other users' accounts within the banking system. Users will be guided through the necessary steps to complete the transaction securely.
 
 View Balance: Users can choose this option to view the current balance of their accounts. The application will display the balance on the screen.
 
